@@ -1,0 +1,1 @@
+print("Nama: "..name..", Umur: "..age)
